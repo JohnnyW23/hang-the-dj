@@ -1,4 +1,4 @@
-# hang-the-dj
+# hangman-game
 Python project of the famous Hangman game. Portuguese (BR) translation available.
 Projeto Python do famoso Jogo da Forca. Tradução para Portugues (BR) disponível.
 
