@@ -8,5 +8,8 @@ It's a very simple game, if you don't know yet. You have to guess the secret wor
 # Word database
 You can choose a secret word when you start the game (if you're playing with friends) or you can set the program to choose a word for you. The words come from a database I created inside it, with 2466 different words. The portuguese version has 29115 different words in the database.
 
+# Game features
+The game accepts any guess you choose, even containing hyphens, numbers and spaces.
+
 # Translation
 Portuguese (BR) translation of the code and in-game elements is available.
