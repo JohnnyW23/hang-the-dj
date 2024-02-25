@@ -1,7 +1,7 @@
 # hangman-game
 Python project of the famous Hangman game. Portuguese (BR) translation available.
 
-#jogo da forca
+# jogo da forca
 Projeto Python do famoso Jogo da Forca. Tradução para Portugues (BR) disponível.
 
 # Instructions
